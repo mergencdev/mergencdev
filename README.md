@@ -2,7 +2,7 @@
 
 <img src = "https://media3.giphy.com/media/73D8uKrIMUpPFOzR29/200.gif?cid=790b76116a87987bca610c87c146e89da0cea710736e7f5f&rid=200.gif&ct=g" width="450" width= 300 alt = 'Remus Lupin' align='right'/>
 
-💻 Android Developer Intern at [Appcent](https://www.appcent.mobi/)
+💻 Android Developer at [Appcent](https://www.appcent.mobi/)
 
 📄 [Resume](https://drive.google.com/file/d/1l3Z_JGLnNkvg8DhpwZjNhgNb5DpLr-PG/view)
 
