@@ -4,7 +4,7 @@
 
 💻 Android Developer at [Appcent](https://www.appcent.mobi/)
 
-📄 [Resume](https://drive.google.com/file/d/12k5ysg45_SVZdNqPjHpcv4qGINzmlZi5/view?usp=sharing)
+📄 [Resume](https://drive.google.com/file/d/1TnDw2yGRDTcMZiZBI3_Y6K8Y-Cyyq1Un/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
