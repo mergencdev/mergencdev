@@ -1,13 +1,18 @@
-<h1 align="left">Mehmet Emin Ergenç (@mergencdev)</h1>
+[![Braydon's GitHub Banner](./assets/header.png)](https://links.dev/mergenc)
 
-<img src = "https://media3.giphy.com/media/73D8uKrIMUpPFOzR29/200.gif?cid=790b76116a87987bca610c87c146e89da0cea710736e7f5f&rid=200.gif&ct=g" width="450" width= 300 alt = 'Remus Lupin' align='right'/>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mergencdev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ergenc/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mergenc)
 
-💻 Android Developer at [Appcent](https://www.appcent.mobi/)
+Hey there 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehmet-ergenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-ergenc" height="30" width="40" /></a>
-<a href="https://twitter.com/mergencdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mergencdev" height="30" width="40" /></a>
-</p>
+I'm Mehmet Emin, a creative Android developer with over two years of experience, based in Turkey. I'm passionate about Android development, mobile technologies, and a fan of cats. Have produced robust code for high-volume companies in Turkey in Appcent for 2+ years. I'm a fast-paced learner with a true mentor and a well-cultured team. I eager to learn new technologies and work with a good team. I currently lives in Turkey and works remotely at a software development company.
 
+Want to know more about me? [Check out all my URLs.](https://links.dev/mergenc)
 
+## 💼 Skills
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
