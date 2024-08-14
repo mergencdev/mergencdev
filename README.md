@@ -2,7 +2,7 @@
 
 👋
 
-I'm Mehmet Emin, a creative Android developer with over three years of experience, based in Turkey. I'm passionate about Android development, mobile technologies, and a fan of cats. Have produced robust code for high-volume companies in Turkey in Appcent for 3+ years. I'm a fast-paced learner with a true mentor and a well-cultured team. I eager to learn new technologies and work with a good team. I currently lives in Turkey and works remotely at a software development company.
+I am Mehmet Emin, a highly skilled Android Developer with over three years of professional experience. I am passionate about creating efficient and innovative mobile applications using cutting edge technologies. With a strong background in Kotlin and Java, I have successfully delivered high-quality projects for major companies. My expertise includes developing scalable applications, improving user experiences, and collaborating with crossfunctional teams to achieve project goals.
 
 Want to know more about me? [Check out all my URLs.](https://bento.me/mergenc)
 
